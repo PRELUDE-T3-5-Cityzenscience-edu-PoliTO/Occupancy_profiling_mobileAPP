@@ -1,7 +1,7 @@
 # Mobile user-occupancy app for building smart management
 **Source code**
 
-#Politecnico di Torino 
+## Politecnico di Torino 
 
 > **This project is part of the PRELUDE project Citizenscience and education activities (T9.5-PoliTO) - see note**
 
@@ -27,6 +27,6 @@ Note: For information on the EU H2020 PRELUDE please visit the project site: htt
 ## Project supervisor:
     prof. G.Chiesa
 
-##Acknowledgement
+## Acknowledgement
     Prof. F.Dovis is thankfully acknowledged for his precious suggestions and support. 
 
